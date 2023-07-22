@@ -1,0 +1,9 @@
+.error-message {
+	color: red;
+}
+
+.icon-wrapper {
+	display: block;
+	width: 20px;
+	height: 20px;
+}
